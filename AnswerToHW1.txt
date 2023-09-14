@@ -1,0 +1,10 @@
+Imagine you are building a decentralized game
+
+Name some issues arising from decentralization?.
+
+Difficulties with coordination / validation of moves / security
+
+What benefits does decentralization bring to the game ?
+
+Benefits include
+User control / Accessibility / trust is provided by the protocol
