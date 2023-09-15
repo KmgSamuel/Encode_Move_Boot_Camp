@@ -1,0 +1,10 @@
+[package]
+name = 'HW5'
+version = '1.0.0'
+[addresses]
+basic_address = "0x7a5a2ba1a5680563628eadde9b9c4e2aad11826597aecde046292d146091cf44"
+
+[dependencies.AptosFramework]
+git = 'https://github.com/aptos-labs/aptos-core.git'
+rev = 'devnet'
+subdir = 'aptos-move/framework/aptos-framework'
